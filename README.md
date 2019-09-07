@@ -1,1 +1,1 @@
-# Java-Grocery
+Java course assignment.
