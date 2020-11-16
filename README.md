@@ -1,1 +1,1 @@
-Java course assignment.
+Java course University assignment.
